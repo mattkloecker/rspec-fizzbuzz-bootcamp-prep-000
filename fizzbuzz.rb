@@ -8,5 +8,5 @@ def fizzbuzz(int)
     puts "FizzBuzz"
   elsif !(int % 5 == 0 || int % 3 == 0) #if the number is not divisble by 3 or 5
     puts "nil"
-
+  else puts "nil"  
 end
