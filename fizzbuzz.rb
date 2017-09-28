@@ -7,7 +7,7 @@ def fizzbuzz(int)
     "Buzz"
   end
 
-  if int % 5 == 0 && int % 3 == 0 #if the number is divisble by 3 and 5
+  if (int % 5 == 0 && int % 3 == 0) #if the number is divisble by 3 and 5
     "FizzBuzz"
   end
 
