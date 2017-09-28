@@ -12,6 +12,6 @@ def fizzbuzz(int)
   end
 
   if !(int % 5 == 0 || int % 3 == 0) #if the number is not divisble by 3 or 5
-    "nil"
+    nil
   end
 end
